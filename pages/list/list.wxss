@@ -1,0 +1,48 @@
+.navigator-hover{
+  color:blue;
+}
+.container {  
+  display:list-item;
+  padding-top:30rpx;
+  padding-left:20rpx;
+  padding-right:20rpx;
+  overflow-x:hidden;
+}
+.content-root{
+  display:flex;
+  width:80%
+  height:120rpx;
+  border-bottom:solid 1rpx #798c39;
+  margin-top:10rpx;
+  margin-bottom:40rpx;	
+} 
+.ico-cup{ 
+ width:670rpx;
+ height:92rpx; 	
+ background-size:cover;
+ margin-bottom:8rpx; 
+}
+.cup-num{ 
+ position:relative;
+ float:left;
+ margin-left:-320rpx;
+ color:black;
+ font-size:48rpx;
+ font-family:"segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;	 
+ display:inline;
+ line-height:70rpx;
+ vertical-align:middle;
+ z-index:222;
+}
+.cup-text{
+ position:relative;
+ float:left;
+ display:inline;
+ color:#798c39;
+ font-size:24rpx;
+ font-family:"segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;	
+ margin-left:100rpx;
+ line-height:70rpx;
+ vertical-align:middle;
+ z-index:9999;
+}

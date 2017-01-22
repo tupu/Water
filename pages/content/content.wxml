@@ -1,0 +1,14 @@
+<view class="container"> 
+ <block wx:for="{{datas}}" wx:for-item="cupc"  wx:key="this" >
+  <!--单个Item模板--> 
+  <view class="content-root">
+    <view class="cup-tit">{{cupc.tit}}</view>     
+    <image src="{{cupc.acup}}" class="acup-cup" bindtap="clickShow" id="{{index+1}}"/>
+    <view class="cup-jj">{{cupc.jianjie}}</view> 
+    <view class="cup-gx">{{cupc.gongxiao}}</view> 
+    <view class="cup-xa">{{cupc.wgxa}}</view>
+    <view class="cup-xb">{{cupc.wgxb}}</view>
+    <view class="cup-xc">{{cupc.wgxc}}</view>
+  </view> 
+  </block>
+</view>

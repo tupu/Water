@@ -1,0 +1,10 @@
+<view class="container"> 
+ <block wx:for="{{datas}}" wx:for-item="data"  wx:key="this" >
+  <!--单个Item模板-->
+  <view class="content-root" >
+    <image src="{{cupIcon}}" class="ico-cup"bindtap="clickContent" id="{{index+1}}"/>
+    <view  class="cup-num">{{data.cishu}}</view> 
+    <view class="cup-text">{{data.shijian}}</view>    
+  </view>
+</block>
+</view>

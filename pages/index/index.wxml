@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <!--首页图片-->
+  <view class="home-cupimg">
+  	<image class="home-cup" src="../assets/img/home-cup.jpg" 
+
+  	bindtap="clickShow" />
+  	<image class="home-8cup" src="../assets/img/home-8cup.jpg" />
+  </view>
+  <!--首页文字内容-->
+  <view class="home-content">健康成年人每天需水量为2500ml左右其中饮水约占50%，食物中
+含的水为40%左右，体内代谢产生的水占10%。
+  </view>
+</view>

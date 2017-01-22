@@ -1,0 +1,60 @@
+.cup-tit{
+	font-family:"segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+	color:#798c39;
+	font-size:40rpx;
+	padding-left:230rpx;
+    padding-right:230rpx; 
+    margin-top:150rpx;
+    margin-bottom:0rpx;
+}
+.acup-cup{
+	width:612rpx;
+    height:354rpx;
+    padding-left:50rpx;
+    padding-right:50rpx;
+}
+.cup-jj{
+    text-indent:2em;
+	font-family:"segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+	color:black;
+	font-size:26rpx;
+	line-height:1.5;
+	padding-left:70rpx;
+    padding-right:70rpx; 
+    margin-top:30rpx;
+    margin-bottom:70rpx;
+}
+.cup-gx{
+	font-family:"segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+	color:#798c39;
+	font-size:24rpx;
+	padding-left:60rpx;
+	margin-bottom:20rpx;
+}
+.cup-xa{
+	font-family:"segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+	color:#798c39;
+	font-size:24rpx;
+	padding-left:70rpx;
+	padding-right:70rpx; 
+	margin-top:20rpx;
+	margin-bottom:50rpx;
+}
+.cup-xb{
+	font-family:"segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+	color:#798c39;
+	font-size:24rpx;
+	padding-left:70rpx;
+	padding-right:70rpx; 
+	margin-top:20rpx;
+	margin-bottom:50rpx;
+}
+.cup-xc{
+	font-family:"segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+	color:#798c39;
+	font-size:24rpx;
+	padding-left:70rpx;
+	padding-right:70rpx; 
+	margin-top:20rpx;
+	margin-bottom:50rpx;
+}
